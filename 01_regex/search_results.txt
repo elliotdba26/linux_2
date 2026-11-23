@@ -1,0 +1,1 @@
+elliot:x:1000:1000:elliot:/home/elliot:/bin/bash
